@@ -52,7 +52,7 @@ namespace AccountApi.Controllers
         [Route("path/GetSingle")]
         public AllAccount GetSingle(string Portal, string Account, string Pwd)
         {
-            return GetAll(Account, Pwd).Single(s => s.Portal.Contains(Portal));//注释
+            return GetAll(Account, Pwd).Single(s => s.Portal.Contains(Portal));//注释1
         }
     }
 }
