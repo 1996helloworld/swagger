@@ -1,0 +1,16 @@
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\obj\Debug\Business.csprojAssemblyReference.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Business.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Business.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\DataAccess.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Entity.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Repository.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Utilities.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\log4net.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\DataAccess.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Entity.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Repository.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\bin\Debug\Utilities.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\obj\Debug\Business.csproj.CopyComplete
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\obj\Debug\Business.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Business\obj\Debug\Business.pdb

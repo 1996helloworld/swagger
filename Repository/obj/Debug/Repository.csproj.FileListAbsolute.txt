@@ -1,0 +1,12 @@
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\Repository.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\Repository.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\DataAccess.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\Utilities.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\log4net.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\DataAccess.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\Utilities.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.csproj.CopyComplete
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.pdb

@@ -1,0 +1,5 @@
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\bin\Debug\Entity.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\bin\Debug\Entity.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Debug\Entity.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,10 @@
+c:\users\wuyujie.deren\source\repos\AccountApi\Utilities\bin\Debug\Utilities.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Utilities\bin\Debug\Utilities.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Utilities\obj\Debug\Utilities.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Utilities\obj\Debug\Utilities.pdb
+C:\Users\wuyujie.DEREN\source\repos\AccountApi\Utilities\bin\Debug\DataAccess.dll
+C:\Users\wuyujie.DEREN\source\repos\AccountApi\Utilities\bin\Debug\log4net.dll
+C:\Users\wuyujie.DEREN\source\repos\AccountApi\Utilities\bin\Debug\DataAccess.pdb
+C:\Users\wuyujie.DEREN\source\repos\AccountApi\Utilities\obj\Debug\Utilities.csproj.CopyComplete

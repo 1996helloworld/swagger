@@ -1,0 +1,6 @@
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\bin\Release\Entity.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\bin\Release\Entity.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Release\Entity.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Release\Entity.pdb

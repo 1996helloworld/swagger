@@ -1,0 +1,8 @@
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\bin\Release\DataAccess.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\bin\Release\DataAccess.pdb
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\bin\Release\log4net.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Release\DataAccess.csprojAssemblyReference.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Release\DataAccess.csproj.CopyComplete
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Release\DataAccess.dll
+c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Release\DataAccess.pdb
