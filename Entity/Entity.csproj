@@ -43,7 +43,9 @@
     <Compile Include="AllAccount.cs" />
     <Compile Include="BaseInfo.cs" />
     <Compile Include="base_user.cs" />
+    <Compile Include="GoodsDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

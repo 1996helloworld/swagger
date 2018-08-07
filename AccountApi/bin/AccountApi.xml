@@ -543,10 +543,40 @@
             公用方法
             </summary>
         </member>
+        <member name="F:AccountApi.Controllers.JdDataController._GoodsDetails">
+            <summary>
+            公用方法
+            </summary>
+        </member>
         <member name="M:AccountApi.Controllers.JdDataController.GetAll">
             <summary>
             获取所有商品
             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AccountApi.Controllers.JdDataController.GetAllType(System.String)">
+            <summary>
+            查询该商品下所有机型
+            </summary>
+            <param name="Id"></param>
+            <returns></returns>
+        </member>
+        <member name="F:AccountApi.Controllers.PriceController.repositoryfactory">
+            <summary>
+            公用方法
+            </summary>
+        </member>
+        <member name="F:AccountApi.Controllers.PriceController._GoodsDetails">
+            <summary>
+            公用方法
+            </summary>
+        </member>
+        <member name="M:AccountApi.Controllers.PriceController.GetPrice(System.String,System.String)">
+            <summary>
+            获取一条商品的最高和最高价
+            </summary>
+            <param name="Id"></param>
+            <param name="test"></param>
             <returns></returns>
         </member>
         <member name="T:AccountApi.Controllers.ValuesController">

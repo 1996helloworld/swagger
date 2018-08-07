@@ -6,3 +6,10 @@ c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Debug\DataAccess.c
 c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Debug\DataAccess.dll
 c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Debug\DataAccess.pdb
 c:\users\wuyujie.deren\source\repos\AccountApi\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\Mywork\WebApi\swagger\DataAccess\bin\Debug\DataAccess.dll
+E:\Mywork\WebApi\swagger\DataAccess\bin\Debug\DataAccess.pdb
+E:\Mywork\WebApi\swagger\DataAccess\bin\Debug\log4net.dll
+E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.dll
+E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.pdb

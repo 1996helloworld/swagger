@@ -10,3 +10,15 @@ c:\users\wuyujie.deren\source\repos\AccountApi\Repository\bin\Debug\Utilities.pd
 c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.csproj.CopyComplete
 c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.dll
 c:\users\wuyujie.deren\source\repos\AccountApi\Repository\obj\Debug\Repository.pdb
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\Repository.dll
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\Repository.pdb
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\DataAccess.dll
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\Utilities.dll
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\log4net.dll
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\DataAccess.pdb
+E:\Mywork\WebApi\swagger\Repository\bin\Debug\Utilities.pdb
+E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.csproj.CopyComplete
+E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.dll
+E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.pdb
