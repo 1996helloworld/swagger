@@ -533,6 +533,22 @@
             <param name="Pwd">密码</param>
             <returns></returns>
         </member>
+        <member name="T:AccountApi.Controllers.JdDataController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:AccountApi.Controllers.JdDataController.repositoryfactory">
+            <summary>
+            公用方法
+            </summary>
+        </member>
+        <member name="M:AccountApi.Controllers.JdDataController.GetAll">
+            <summary>
+            获取所有商品
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:AccountApi.Controllers.ValuesController">
             <summary>
             

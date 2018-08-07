@@ -3,3 +3,8 @@ c:\users\wuyujie.deren\source\repos\AccountApi\Entity\bin\Debug\Entity.pdb
 c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
 c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Debug\Entity.dll
 c:\users\wuyujie.deren\source\repos\AccountApi\Entity\obj\Debug\Entity.pdb
+E:\Mywork\WebApi\swagger\Entity\bin\Debug\Entity.dll
+E:\Mywork\WebApi\swagger\Entity\bin\Debug\Entity.pdb
+E:\Mywork\WebApi\swagger\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\Mywork\WebApi\swagger\Entity\obj\Debug\Entity.dll
+E:\Mywork\WebApi\swagger\Entity\obj\Debug\Entity.pdb

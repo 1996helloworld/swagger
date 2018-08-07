@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AllAccount.cs" />
+    <Compile Include="BaseInfo.cs" />
     <Compile Include="base_user.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
