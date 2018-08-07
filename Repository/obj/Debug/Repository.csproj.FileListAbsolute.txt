@@ -22,3 +22,15 @@ E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.csproj.CoreCompileInput
 E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.csproj.CopyComplete
 E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.dll
 E:\Mywork\WebApi\swagger\Repository\obj\Debug\Repository.pdb
+C:\Users\Think\Desktop\git\Repository\bin\Debug\Repository.dll
+C:\Users\Think\Desktop\git\Repository\bin\Debug\Repository.pdb
+C:\Users\Think\Desktop\git\Repository\bin\Debug\DataAccess.dll
+C:\Users\Think\Desktop\git\Repository\bin\Debug\Utilities.dll
+C:\Users\Think\Desktop\git\Repository\bin\Debug\log4net.dll
+C:\Users\Think\Desktop\git\Repository\bin\Debug\DataAccess.pdb
+C:\Users\Think\Desktop\git\Repository\bin\Debug\Utilities.pdb
+C:\Users\Think\Desktop\git\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Think\Desktop\git\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\git\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Think\Desktop\git\Repository\obj\Debug\Repository.dll
+C:\Users\Think\Desktop\git\Repository\obj\Debug\Repository.pdb

@@ -9,10 +9,10 @@ namespace Entity
     public class Report
     {
         public string Title { get; set; }
-        public int MaxPrice { get; set; }
-        public int MinPrice { get; set; }
+        public double MaxPrice { get; set; }
+        public double MinPrice { get; set; }
         public DateTime CreateTime { get; set; }
-        public qushi Qushi { get; set; }
+        public List<qushi> Qushi { get; set; }
     }
     public class qushi
     {
@@ -20,6 +20,6 @@ namespace Entity
         /// 店铺
         /// </summary>
         public string Store { get; set; }
-        public int Price { get; set; }
+        public string Price { get; set; }
     }
 }

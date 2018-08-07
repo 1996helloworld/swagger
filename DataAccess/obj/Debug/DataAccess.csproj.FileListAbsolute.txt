@@ -13,3 +13,10 @@ E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInput
 E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.dll
 E:\Mywork\WebApi\swagger\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Think\Desktop\git\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Think\Desktop\git\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Think\Desktop\git\DataAccess\bin\Debug\log4net.dll
+C:\Users\Think\Desktop\git\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\git\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Think\Desktop\git\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Think\Desktop\git\DataAccess\obj\Debug\DataAccess.pdb

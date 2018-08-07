@@ -18,3 +18,13 @@ E:\Mywork\WebApi\swagger\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.
 E:\Mywork\WebApi\swagger\Utilities\obj\Debug\Utilities.csproj.CopyComplete
 E:\Mywork\WebApi\swagger\Utilities\obj\Debug\Utilities.dll
 E:\Mywork\WebApi\swagger\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Think\Desktop\git\Utilities\bin\Debug\Utilities.dll
+C:\Users\Think\Desktop\git\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Think\Desktop\git\Utilities\bin\Debug\DataAccess.dll
+C:\Users\Think\Desktop\git\Utilities\bin\Debug\log4net.dll
+C:\Users\Think\Desktop\git\Utilities\bin\Debug\DataAccess.pdb
+C:\Users\Think\Desktop\git\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Think\Desktop\git\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Think\Desktop\git\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\Users\Think\Desktop\git\Utilities\obj\Debug\Utilities.dll
+C:\Users\Think\Desktop\git\Utilities\obj\Debug\Utilities.pdb

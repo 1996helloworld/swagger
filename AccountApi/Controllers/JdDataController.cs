@@ -33,14 +33,16 @@ namespace AccountApi.Controllers
         /// </summary>
         /// <returns></returns>
         [System.Web.Mvc.HttpGet]
-        public List<BaseInfo> GetAll()
+        [SwaggerOperation("GetAllMachine")]
+        [Route("path/GetAllMachine")]
+        public List<BaseInfo> GetAllMachine()
         {
             return repositoryfactory.Repository().FindList();
         }
         /// <summary>
         /// 查询该商品下所有机型
         /// </summary>
-        /// <param name="Id"></param>
+        /// <param name="Id">商品Id</param>
         /// <returns></returns>
         [System.Web.Mvc.HttpGet]
         [SwaggerOperation("GetAllType")]

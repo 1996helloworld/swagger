@@ -548,7 +548,7 @@
             公用方法
             </summary>
         </member>
-        <member name="M:AccountApi.Controllers.JdDataController.GetAll">
+        <member name="M:AccountApi.Controllers.JdDataController.GetAllMachine">
             <summary>
             获取所有商品
             </summary>
@@ -558,7 +558,7 @@
             <summary>
             查询该商品下所有机型
             </summary>
-            <param name="Id"></param>
+            <param name="Id">商品Id</param>
             <returns></returns>
         </member>
         <member name="F:AccountApi.Controllers.PriceController.repositoryfactory">
@@ -571,12 +571,16 @@
             公用方法
             </summary>
         </member>
-        <member name="M:AccountApi.Controllers.PriceController.GetPrice(System.String,System.String)">
+        <member name="F:AccountApi.Controllers.PriceController._qushi">
+            <summary>
+            公用方法
+            </summary>
+        </member>
+        <member name="M:AccountApi.Controllers.PriceController.GetPrice(System.String)">
             <summary>
             获取一条商品的最高和最高价
             </summary>
-            <param name="Id"></param>
-            <param name="test"></param>
+            <param name="Id">商品Id</param>
             <returns></returns>
         </member>
         <member name="T:AccountApi.Controllers.ValuesController">
